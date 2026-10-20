@@ -1,0 +1,10 @@
+torch
+torchvision
+scikit-learn
+matplotlib
+pillow
+flask
+albumentations
+grad-cam
+pandas
+joblib
